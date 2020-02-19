@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.motion.widget.MotionLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/motionLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingTop="100dp"
+    app:layoutDescription="@xml/motion_scene">
+
+    <View
+        android:id="@+id/disk"
+        android:layout_width="@dimen/disk_size"
+        android:layout_height="@dimen/disk_size"
+        android:background="@drawable/disk" />
+
+    <by.krossovochkin.vinylmotionlayoutsample.CoverView
+        android:id="@+id/cover"
+        android:layout_width="@dimen/cover_size"
+        android:layout_height="@dimen/cover_size" />
+
+</androidx.constraintlayout.motion.widget.MotionLayout>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="diskOuter">#000000</color>
+    <color name="diskInner">#fffbad</color>
+
+    <color name="coverColor1">#a43ae0</color>
+    <color name="coverColor2">#932001</color>
+    <color name="coverColor3">#068013</color>
+    <color name="coverColor4">#64d6a2</color>
+    <color name="coverColor5">#4c2bed</color>
+    <color name="coverColor6">#fb96e5</color>
+    <color name="coverColor7">#3548b3</color>
+    <color name="coverColor8">#84d95d</color>
+    <color name="coverColor9">#d655cf</color>
+    <color name="coverColor10">#47b3b0</color>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="cover_size">200dp</dimen>
+    <dimen name="disk_size">180dp</dimen>
+    <dimen name="disk_ring_size">60dp</dimen>
+
+    <dimen name="cover_offset_start">-50dp</dimen>
+    <dimen name="cover_offset_mid">50dp</dimen>
+    <dimen name="cover_offset_end">0dp</dimen>
+    <dimen name="disk_offset_start">70dp</dimen>
+    <dimen name="disk_offset_mid">90dp</dimen>
+    <dimen name="disk_offset_end">0dp</dimen>
+</resources>
